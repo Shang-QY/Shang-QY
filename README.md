@@ -4,7 +4,7 @@ I'm a programmer who loves crafting system software with a focus on software-har
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Shang-QY/Shang-QY/main/tech.svg" width="360px"/>
+<img align="right" src="https://raw.githubusercontent.com/Shang-QY/Shang-QY/main/tech.svg" width="360px"/>
 
 ### 🧐 More About Me:
 
