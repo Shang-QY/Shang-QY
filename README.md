@@ -18,7 +18,7 @@ I'm a programmer who loves crafting system software with a focus on software-har
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Shang-QY/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Shang-QY/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 </a>
