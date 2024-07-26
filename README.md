@@ -8,7 +8,7 @@ I'm a programmer who loves crafting system software with a focus on software-har
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **IPADS Penglai** team
+- 🔭 &nbsp; I’m currently working in **IPADS Penglai** team
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shang-QY?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
